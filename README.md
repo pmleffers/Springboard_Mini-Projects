@@ -1,7 +1,7 @@
 # Springboard_Mini-Projects
 **Contains Mini Projects for the Springboard Bootcamp**
 
-[JSON examples and exercise](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/ad51e1d408d6a7a7e2218f2bcab13ee93655d8cf/sliderule_dsi_json_exercise.ipynb)
+[JSON examples and exercise](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/a8cb32532d66391dfedabcbcff83200321757003/sliderule_dsi_json_exercise.ipynb)
 + get familiar with packages for dealing with JSON
 + study examples with JSON strings and files 
   1. Find the 10 countries with most projects
