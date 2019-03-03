@@ -1,7 +1,7 @@
 # Springboard_Mini-Projects
 **Contains Mini Projects for the Springboard Bootcamp**
 
-## JSON examples and exercise
+[![## JSON examples and exercise](https://github.com/pmleffers/CardRecognitionProjectPart1/blob/master/YoutubeThumb.jpg)](https://www.youtube.com/watch?v=uHIOnX9ktjs)
 + get familiar with packages for dealing with JSON
 + study examples with JSON strings and files 
   1. Find the 10 countries with most projects
