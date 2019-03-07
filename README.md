@@ -8,7 +8,7 @@
   2. Find the top 10 major project themes (using column 'mjtheme_namecode')
   3. In 2. above you will notice that some entries have only the code and the name is missing. Create a dataframe with the missing names filled in.
 
-[SQL Mini-Project](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/4358aac07befcddb593ac544d1ac6eb1b7fbfd34/Sql_Springboard.ipynb)
+[SQL Mini-Project](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/090c72a8e7da9f2034039764605023da0bad953e/Sql_Springboard.ipynb)
 + Work with SQL-based databases
 + Learn and write basic SQL queries up to basic aggregations and joins
 + Criteria:
