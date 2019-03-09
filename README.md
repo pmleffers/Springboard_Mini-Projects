@@ -50,3 +50,5 @@ Order by descending cost, and do not use any subqueries.
   10. Produce a list of facilities with a total revenue less than 1000.
 The output of facility name and total revenue, sorted by revenue. Remember
 that there's a different cost for guests and members!
+
+[API Mini-Project](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/master/api_data_wrangling_mini_project.ipynb)
