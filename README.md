@@ -52,6 +52,7 @@ The output of facility name and total revenue, sorted by revenue. Remember
 that there's a different cost for guests and members!
 
 [API Mini-Project](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/master/api_data_wrangling_mini_project.ipynb)
+
 Practice new data wrangling techniques. 
 + The code runs successfully.
 + The submission shows that the correct solutions to the 6 mandatory problems are produced.
