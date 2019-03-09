@@ -52,3 +52,16 @@ The output of facility name and total revenue, sorted by revenue. Remember
 that there's a different cost for guests and members!
 
 [API Mini-Project](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/master/api_data_wrangling_mini_project.ipynb)
+Practice new data wrangling techniques. 
++ The code runs successfully.
++ The submission shows that the correct solutions to the 6 mandatory problems are produced.
++ The code in the submission is well commented
++ The submission demonstrates understanding of each part of the solution.
++ The project doesn't contain any unnecessary printouts.
+  1. Collect data from the Franfurt Stock Exchange, for the ticker AFX_X, for the whole year 2017 (keep in mind that the date format is YYYY-MM-DD).
+  2. Convert the returned JSON object into a Python dictionary.
+  3. Calculate what the highest and lowest opening prices were for the stock in this period.
+  4. What was the largest change in any one day (based on High and Low price)?
+  5. What was the largest change between any two days (based on Closing Price)?
+  6. What was the average daily trading volume during this year? 
+  7. (Optional) What was the median trading volume during this year. (Note: you may need to implement your own function for calculating the median.)
