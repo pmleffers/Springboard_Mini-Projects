@@ -68,10 +68,11 @@ Practice new data wrangling techniques.
   7. (Optional) What was the median trading volume during this year. (Note: you may need to implement your own function for calculating the median.)
 
 Sliderule DSI Inferential Statistics Exercise 1
+
 The mean normal body temperature was held to be 37∘C or 98.6∘F for more than 120 years since it was first conceptualized and reported by Carl Wunderlich in a famous 1868 book. But, is this value statistically correct?
 Answer the following questions in this notebook below and submit to your Github account.
 
-+ Exercises
+Exercises
 1. Is the distribution of body temperatures normal?
 + Although this is not a requirement for the Central Limit Theorem to hold (read the introduction on Wikipedia's page about the CLT carefully: https://en.wikipedia.org/wiki/Central_limit_theorem), it gives us some peace of mind that the population may also be normally distributed if we assume that this sample is representative of the population.
 + Think about the way you're going to check for the normality of the distribution. Graphical methods are usually used first, but there are also other ways: https://en.wikipedia.org/wiki/Normality_test 
