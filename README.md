@@ -66,8 +66,8 @@ Practice new data wrangling techniques.
   5. What was the largest change between any two days (based on Closing Price)?
   6. What was the average daily trading volume during this year? 
   7. (Optional) What was the median trading volume during this year. (Note: you may need to implement your own function for calculating the median.)
-
-Sliderule DSI Inferential Statistics Exercise 1
+[
+Sliderule DSI Inferential Statistics Exercise 1](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/a5b03f6943f8e6c0d25edb67f5cf695675db2091/sliderule_dsi_inferential_statistics_exercise_1.ipynb)
 
 The mean normal body temperature was held to be 37∘C or 98.6∘F for more than 120 years since it was first conceptualized and reported by Carl Wunderlich in a famous 1868 book. But, is this value statistically correct?
 Answer the following questions in this notebook below and submit to your Github account.
