@@ -95,4 +95,12 @@ The mean normal body temperature was held to be 37∘C or 98.6∘F for more than
   
   [Sliderule DSI Inferential Statistics Exercise 2](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/27aa96717313e1a94067da404fd576f39102df67/sliderule_dsi_inferential_statistics_exercise_2.ipynb)
 
+You will perform a statistical analysis to establish whether race has a significant impact on the rate of callbacks for resumes.
+1. What test is appropriate for this problem? Does CLT apply?
+2. What are the null and alternate hypotheses?
+3. Compute margin of error, confidence interval, and p-value. Try using both the bootstrapping and the frequentist statistical approaches.
+4. Write a story describing the statistical significance in the context or the original problem.
+5. Does your analysis mean that race/name is the most important factor in callback success? Why or why not? If not, how would you amend your analysis?
+
+
 
