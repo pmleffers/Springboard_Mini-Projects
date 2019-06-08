@@ -92,3 +92,7 @@ The mean normal body temperature was held to be 37∘C or 98.6∘F for more than
 - Is there a significant difference between males and females in normal temperature?
   1. What testing approach did you use and why?
   2. Write a story with your conclusion in the context of the original problem. 
+  
+  [Sliderule DSI Inferential Statistics Exercise 2](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/27aa96717313e1a94067da404fd576f39102df67/sliderule_dsi_inferential_statistics_exercise_2.ipynb)
+
+
