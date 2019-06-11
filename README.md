@@ -102,5 +102,4 @@ You will perform a statistical analysis to establish whether race has a signific
 4. Write a story describing the statistical significance in the context or the original problem.
 5. Does your analysis mean that race/name is the most important factor in callback success? Why or why not? If not, how would you amend your analysis?
 
-
-sliderule_dsi_inferential_statistics_exercise_3
+[sliderule_dsi_inferential_statistics_exercise_3](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/a28bc64b4e853a8cb751ae5455df68e36e40a993/sliderule_dsi_inferential_statistics_exercise_3.ipynb)
