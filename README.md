@@ -103,4 +103,4 @@ You will perform a statistical analysis to establish whether race has a signific
 5. Does your analysis mean that race/name is the most important factor in callback success? Why or why not? If not, how would you amend your analysis?
 
 
-
+sliderule_dsi_inferential_statistics_exercise_3
