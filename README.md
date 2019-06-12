@@ -112,3 +112,5 @@ Exercise Directions
 + In this exercise, you will:
 1. critique a preliminary analysis of readmissions data and recommendations (provided below) for reducing the readmissions rate
     construct a statistically sound analysis and make recommendations of your own
+
+[Mini_Project_Linear_Regression](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/357884edcacde980e86b5a484f1f6861878ebf93/Mini_Project_Linear_Regression.ipynb)
