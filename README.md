@@ -133,6 +133,6 @@ There are different ways of making classifications. One idea is shown schematica
 
 In the mini-project, you'll learn the basics of text analysis using a subset of movie reviews from the rotten tomatoes database. You'll also use a fundamental technique in Bayesian inference, called Naive Bayes. This mini-project is based on [Lab 10 of Harvard's CS109](https://github.com/cs109/2015lab10) class.  Please free to go to the original lab for additional exercises and solutions.
 
-[Mini_Project_Clustering](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/5aa8b0cba8b8e5b97d3cb2d505285cca7494c773/Mini_Project_Naive_Bayes.ipynb)
+[Mini_Project_Clustering](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/15d592cfa1d9ef4529d418d040fed0ad7cf4c532/Mini_Project_Clustering.ipynb)
 
 This mini-project is based on [this blog post](http://blog.yhat.com/posts/customer-segmentation-using-python.html) by yhat. Please feel free to refer to the post for additional information, and solutions.
