@@ -129,7 +129,7 @@ We turn our attention to classification. Classification tries to predict, which 
 
 There are different ways of making classifications. One idea is shown schematically in the image below, where we find a line that divides "things" of two different types in a 2-dimensional feature space. The classification show in the figure below is an example of a maximum-margin classifier where construct a decision boundary that is far as possible away from both classes of points. The fact that a line can be drawn to separate the two classes makes the problem linearly separable. Support Vector Machines (SVM) are an example of a maximum-margin classifier.
 
-[Mini_Project_Naive_Bayes](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/5aa8b0cba8b8e5b97d3cb2d505285cca7494c773/Mini_Project_Naive_Bayes.ipynb)
+[Mini_Project_Naive_Bayes](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/e91c3b79fda481370dd5d9d57796a1959089a09a/Mini_Project_Naive_Bayes.ipynb)
 
 In the mini-project, you'll learn the basics of text analysis using a subset of movie reviews from the rotten tomatoes database. You'll also use a fundamental technique in Bayesian inference, called Naive Bayes. This mini-project is based on [Lab 10 of Harvard's CS109](https://github.com/cs109/2015lab10) class.  Please free to go to the original lab for additional exercises and solutions.
 
