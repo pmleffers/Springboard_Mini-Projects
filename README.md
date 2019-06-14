@@ -138,3 +138,4 @@ In the mini-project, you'll learn the basics of text analysis using a subset of 
 This mini-project is based on [this blog post](http://blog.yhat.com/posts/customer-segmentation-using-python.html) by yhat. Please feel free to refer to the post for additional information, and solutions.
 
 [Mini_Project_Tree-Based_Algorithms](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/e9af857ee24c89d27b6a843061067d7a30bc6ca7/Mini_Project_Tree-Based_Algorithms.ipynb)
+
