@@ -139,3 +139,14 @@ This mini-project is based on [this blog post](http://blog.yhat.com/posts/custom
 
 [Mini_Project_Tree-Based_Algorithms](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/e9af857ee24c89d27b6a843061067d7a30bc6ca7/Mini_Project_Tree-Based_Algorithms.ipynb)
 
+Building Your First Decision Tree Model
+
+So, now it's time to jump straight into the heart of the matter. Your first task, is to build a Decision Tree model, using the aforementioned "German Credit" dataset, which contains 1,000 records, and 62 columns (one of them presents the labels, and the other 61 present the potential features for the model.)
+
+For this task, you will be using the scikit-learn library, which comes already pre-installed with the Anaconda Python distribution. In case you're not using that, you can easily install it using pip.
+
+Before embarking on creating your first model, we would strongly encourage you to read the short tutorial for Decision Trees in scikit-learn (http://scikit-learn.org/stable/modules/tree.html), and then dive a bit deeper into the documentation of the algorithm itself (http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html).
+
+Also, since you want to be able to present the results of your model, we suggest you take a look at the tutorial for accuracy metrics for classification models (http://scikit-learn.org/stable/modules/model_evaluation.html#classification-report) as well as the more detailed documentation (http://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html).
+
+Finally, an amazing resource that explains the various classification model accuracy metrics, as well as the relationships between them, can be found on Wikipedia: https://en.wikipedia.org/wiki/Confusion_matrix
