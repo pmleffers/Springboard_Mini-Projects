@@ -213,29 +213,29 @@ improve its longterm rider retention (again, a few sentences will suffice).
 
 **Data description**
 
-● city: city this user signed up in
+●  city: city this user signed up in
 
-● phone: primary device for this user
+●  phone: primary device for this user
 
-● signup_date: date of account registration; in the form ‘YYYY MM DD’
+●  signup_date: date of account registration; in the form ‘YYYY MM DD’
 
-● last_trip_date: the last time this user completed a trip; in the form ‘YYYY MM DD’
+●  last_trip_date: the last time this user completed a trip; in the form ‘YYYY MM DD’
 
-● avg_dist: the average distance in miles per trip taken in the first 30 days after signup
+●  avg_dist: the average distance in miles per trip taken in the first 30 days after signup
 
-● avg_rating_by_driver: the rider’s average rating over all of their trips
+●  avg_rating_by_driver: the rider’s average rating over all of their trips
 
-● avg_rating_of_driver: the rider’s average rating of their drivers over all of their trips
+●  avg_rating_of_driver: the rider’s average rating of their drivers over all of their trips
 
-● surge_pct: the percent of trips taken with surge multiplier > 1
+●  surge_pct: the percent of trips taken with surge multiplier > 1
 
-● avg_surge: The average surge multiplier over all of this user’s trips
+●  avg_surge: The average surge multiplier over all of this user’s trips
 
-● trips_in_first_30_days: the number of trips this user took in the first 30 days after signing up
+●  trips_in_first_30_days: the number of trips this user took in the first 30 days after signing up
 
-● ultimate_black_user: TRUE if the user took an Ultimate Black in their first 30 days; FALSE otherwise
+●  ultimate_black_user: TRUE if the user took an Ultimate Black in their first 30 days; FALSE otherwise
 
-● weekday_pct: the percent of the user’s trips occurring during a weekday
+●  weekday_pct: the percent of the user’s trips occurring during a weekday
 
 
 
@@ -249,16 +249,17 @@ The data is available as two attached CSV files:
   
 The data has the following two tables:
 
-1. A user table ( "takehome_users" ) with data on 12,000 users who signed up for the
-product in the last two years. This table includes:
+1. A user table ( "takehome_users" ) with data on 12,000 users who signed up for the product in the last two years. 
 
-    ● name: the user's name
+This table includes:
+
+    ●  name: the user's name
     
-    ● object_id: the user's id
+    ●  object_id: the user's id
     
-    ● email: email address
+    ●  email: email address
     
-    ● creation_source: how their account was created. This takes on one of 5 values:
+    ●  creation_source: how their account was created. This takes on one of 5 values:
     
           a. PERSONAL_PROJECTS: invited to join another user's personal workspace
 
@@ -270,17 +271,16 @@ product in the last two years. This table includes:
 
           e. SIGNUP_GOOGLE_AUTH: signed up using Google Authentication (using a Google email account for their login id)
     
-        ● creation_time: when they created their account
+        ●  creation_time: when they created their account
 
-        ● last_session_creation_time: unix timestamp of last login
+        ●  last_session_creation_time: unix timestamp of last login
 
-        ● opted_in_to_mailing_list: whether they have opted into receiving marketing emails
+        ●  opted_in_to_mailing_list: whether they have opted into receiving marketing emails
 
-        ● enabled_for_marketing_drip: whether they are on the regular marketing email drip
+        ●  enabled_for_marketing_drip: whether they are on the regular marketing email drip
 
-        ● org_id: the organization (group of users) they belong to
+        ●  org_id: the organization (group of users) they belong to
 
-        ● invited_by_user_id: which user invited them to join (if applicable).
+        ●  invited_by_user_id: which user invited them to join (if applicable).
     
-2. A usage summary table ( "takehome_user_engagement" ) that has a row for each day
-that a user logged into the product.
+2. A usage summary table ( "takehome_user_engagement" ) that has a row for each day that a user logged into the product.
