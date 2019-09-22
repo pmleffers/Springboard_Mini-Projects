@@ -50,7 +50,7 @@ Order by descending cost, and do not use any subqueries.
   10. Produce a list of facilities with a total revenue less than 1000.
 The output of facility name and total revenue, sorted by revenue. Remember
 that there's a different cost for guests and members!
-
+__________________________________________________________
 [API Mini-Project](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/master/api_data_wrangling_mini_project.ipynb)
 
 Practice new data wrangling techniques. 
@@ -66,7 +66,7 @@ Practice new data wrangling techniques.
   5. What was the largest change between any two days (based on Closing Price)?
   6. What was the average daily trading volume during this year? 
   7. (Optional) What was the median trading volume during this year. (Note: you may need to implement your own function for calculating the median.)
-  
+ __________________________________________________________ 
 [Sliderule DSI Inferential Statistics Exercise 1](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/a5b03f6943f8e6c0d25edb67f5cf695675db2091/sliderule_dsi_inferential_statistics_exercise_1.ipynb)
 
 The mean normal body temperature was held to be 37∘C or 98.6∘F for more than 120 years since it was first conceptualized and reported by Carl Wunderlich in a famous 1868 book. But, is this value statistically correct?
@@ -92,7 +92,7 @@ The mean normal body temperature was held to be 37∘C or 98.6∘F for more than
 - Is there a significant difference between males and females in normal temperature?
   1. What testing approach did you use and why?
   2. Write a story with your conclusion in the context of the original problem. 
-  
+__________________________________________________________
 [Sliderule DSI Inferential Statistics Exercise 2](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/b8343f658307e78f70e9062987a60337dbefb0e6/sliderule_dsi_inferential_statistics_exercise_2.ipynb)
 
 You will perform a statistical analysis to establish whether race has a significant impact on the rate of callbacks for resumes.
@@ -101,7 +101,7 @@ You will perform a statistical analysis to establish whether race has a signific
 3. Compute margin of error, confidence interval, and p-value. Try using both the bootstrapping and the frequentist statistical approaches.
 4. Write a story describing the statistical significance in the context or the original problem.
 5. Does your analysis mean that race/name is the most important factor in callback success? Why or why not? If not, how would you amend your analysis?
-
+__________________________________________________________
 [sliderule_dsi_inferential_statistics_exercise_3](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/a28bc64b4e853a8cb751ae5455df68e36e40a993/sliderule_dsi_inferential_statistics_exercise_3.ipynb)
 
 Hospital Readmissions Data Analysis and Recommendations for Reduction
@@ -112,7 +112,7 @@ Exercise Directions
 + In this exercise, you will:
 1. critique a preliminary analysis of readmissions data and recommendations (provided below) for reducing the readmissions rate
     construct a statistically sound analysis and make recommendations of your own
-
+__________________________________________________________
 [Mini_Project_Linear_Regression](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/357884edcacde980e86b5a484f1f6861878ebf93/Mini_Project_Linear_Regression.ipynb)
 
 This is a very quick run-through of some basic statistical concepts, adapted from Lab 4 in Harvard's CS109 course. Please feel free to try the original lab if you're feeling ambitious :-) The CS109 git repository also has the solutions if you're stuck.
@@ -122,21 +122,21 @@ This is a very quick run-through of some basic statistical concepts, adapted fro
 Linear regression is used to model and predict continuous outcomes with normal random errors. There are nearly an infinite number of different types of regression models and each regression model is typically defined by the distribution of the prediction errors (called "residuals") of the type of data. Logistic regression is used to model binary outcomes whereas Poisson regression is used to predict counts. In this exercise, we'll see some examples of linear regression as well as Train-test splits.
 
 The packages we'll cover are: statsmodels, seaborn, and scikit-learn. While we don't explicitly teach statsmodels and seaborn in the Springboard workshop, those are great libraries to know.
-
+__________________________________________________________
 [Mini_Project_Logistic_Regression](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/bd8e85a229de1fec389b7196c63b4bcb2733fbeb/Mini_Project_Logistic_Regression.ipynb)
 
 We turn our attention to classification. Classification tries to predict, which of a small set of classes, an observation belongs to. Mathematically, the aim is to find y, a label based on knowing a feature vector x. For instance, consider predicting gender from seeing a person's face, something we do fairly well as humans. To have a machine do this well, we would typically feed the machine a bunch of images of people which have been labelled "male" or "female" (the training set), and have it learn the gender of the person in the image from the labels and the features used to determine gender. Then, given a new photo, the trained algorithm returns us the gender of the person in the photo.
 
 There are different ways of making classifications. One idea is shown schematically in the image below, where we find a line that divides "things" of two different types in a 2-dimensional feature space. The classification show in the figure below is an example of a maximum-margin classifier where construct a decision boundary that is far as possible away from both classes of points. The fact that a line can be drawn to separate the two classes makes the problem linearly separable. Support Vector Machines (SVM) are an example of a maximum-margin classifier.
-
+__________________________________________________________
 [Mini_Project_Naive_Bayes](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/e91c3b79fda481370dd5d9d57796a1959089a09a/Mini_Project_Naive_Bayes.ipynb)
 
 In the mini-project, you'll learn the basics of text analysis using a subset of movie reviews from the rotten tomatoes database. You'll also use a fundamental technique in Bayesian inference, called Naive Bayes. This mini-project is based on [Lab 10 of Harvard's CS109](https://github.com/cs109/2015lab10) class.  Please free to go to the original lab for additional exercises and solutions.
-
+__________________________________________________________
 [Mini_Project_Clustering](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/1dbb3886a36425a42ac009cf8049075462f0971b/Mini_Project_Clustering.ipynb)
 
 This mini-project is based on [this blog post](http://blog.yhat.com/posts/customer-segmentation-using-python.html) by yhat. Please feel free to refer to the post for additional information, and solutions.
-
+__________________________________________________________
 [Mini_Project_Tree-Based_Algorithms](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/ff6efba67cc32901fd91f026eff1cccf4a82857a/Mini_Project_Tree-Based_Algorithms.ipynb)
 
 Building Your First Decision Tree Model
@@ -151,7 +151,7 @@ Also, since you want to be able to present the results of your model, we suggest
 
 Finally, an amazing resource that explains the various classification model accuracy metrics, as well as the relationships between them, can be found on Wikipedia: https://en.wikipedia.org/wiki/Confusion_matrix
 
-
+__________________________________________________________
 [Spark Mini-Project: Databricks edition](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8473886147007670/1141464256888140/5089459760228433/latest.html)
 
 In this exercise we will play with Spark Datasets & Dataframes, some Spark SQL, and build a couple of binary classifiaction models using Spark ML (with some MLlib too).
@@ -165,7 +165,7 @@ To get started you will need to create and attach a databricks spark cluster to 
 
     Databricks Runtime Version 4.0 (includes Apache Spark 2.3.0, Scala 2.11)
     Python Version 3
-
+__________________________________________________________
 [Ultimate Interview Challenge](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/master/Data%20Analysis%20Interview%20Challenge.ipynb)
 
 This is your chance to wow us with creative and rigorous solutions! Please include your code at
@@ -238,7 +238,7 @@ improve its longterm rider retention (again, a few sentences will suffice).
 12.  weekday_pct: the percent of the user’s trips occurring during a weekday
 
 
-
+__________________________________________________________
 [Relax Interview Challenge](https://nbviewer.jupyter.org/github/pmleffers/Springboard_Mini-Projects/blob/master/Relax%20Challenge.ipynb)
 
 The data is available as two attached CSV files:
