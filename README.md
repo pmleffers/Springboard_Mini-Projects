@@ -271,16 +271,16 @@ This table includes:
 
           e. SIGNUP_GOOGLE_AUTH: signed up using Google Authentication (using a Google email account for their login id)
     
-        ●  creation_time: when they created their account
+    ●  creation_time: when they created their account
 
-        ●  last_session_creation_time: unix timestamp of last login
+    ●  last_session_creation_time: unix timestamp of last login
 
-        ●  opted_in_to_mailing_list: whether they have opted into receiving marketing emails
+    ●  opted_in_to_mailing_list: whether they have opted into receiving marketing emails
 
-        ●  enabled_for_marketing_drip: whether they are on the regular marketing email drip
+    ●  enabled_for_marketing_drip: whether they are on the regular marketing email drip
 
-        ●  org_id: the organization (group of users) they belong to
+    ●  org_id: the organization (group of users) they belong to
 
-        ●  invited_by_user_id: which user invited them to join (if applicable).
+    ●  invited_by_user_id: which user invited them to join (if applicable).
     
 2. A usage summary table ( "takehome_user_engagement" ) that has a row for each day that a user logged into the product.
