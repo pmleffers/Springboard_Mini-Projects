@@ -244,6 +244,7 @@ improve its longterm rider retention (again, a few sentences will suffice).
 The data is available as two attached CSV files:
 
   takehome_user_engagement. csv
+  
   takehome_users . csv
   
 The data has the following two tables:
@@ -259,15 +260,15 @@ product in the last two years. This table includes:
     
     ● creation_source: how their account was created. This takes on one of 5 values:
     
-      a. PERSONAL_PROJECTS: invited to join another user's personal workspace
+          a. PERSONAL_PROJECTS: invited to join another user's personal workspace
 
-      b. GUEST_INVITE: invited to an organization as a guest (limited permissions)
+          b. GUEST_INVITE: invited to an organization as a guest (limited permissions)
 
-      c. ORG_INVITE: invited to an organization (as a full member)
+          c. ORG_INVITE: invited to an organization (as a full member)
 
-      d. SIGNUP: signed up via the website
+          d. SIGNUP: signed up via the website
 
-      e. SIGNUP_GOOGLE_AUTH: signed up using Google
+          e. SIGNUP_GOOGLE_AUTH: signed up using Google
     
     Authentication (using a Google email account for their login id)
     
